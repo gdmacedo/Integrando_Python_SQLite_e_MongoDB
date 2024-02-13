@@ -24,7 +24,7 @@ Sendo assim, utilizado o esquema dentro do contexto de cliente e conta para cria
 Essas classes irão representar as tabelas do banco de dados relacional dentro da aplicação.
 
 <!--Banner session-->
-<p align="center"><img src="./img/uml.jpg" alt="banner"></p>
+<p align="center"><img src="./img/UML.jpg" alt="UML"></p>
 
 
 #### Entregável:
